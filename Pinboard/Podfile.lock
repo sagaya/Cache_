@@ -1,0 +1,16 @@
+PODS:
+  - CacheFramework (0.1.0)
+
+DEPENDENCIES:
+  - CacheFramework (from `../CacheFramework`)
+
+EXTERNAL SOURCES:
+  CacheFramework:
+    :path: "../CacheFramework"
+
+SPEC CHECKSUMS:
+  CacheFramework: 7d4fc8ff58518e23a5745d2ec72c12b65ad7ae6f
+
+PODFILE CHECKSUM: 06de5f016f14c9b700f81372141f49d98d4045e5
+
+COCOAPODS: 1.6.0.beta.2
