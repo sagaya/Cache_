@@ -11,7 +11,7 @@
 
 ## Features
 
-- [x] Cahche Image
+- [x] Cache Image
 - [x] Cache JSON
 - [x] Load image in a collectionView
 - [x] Custom transition animation
